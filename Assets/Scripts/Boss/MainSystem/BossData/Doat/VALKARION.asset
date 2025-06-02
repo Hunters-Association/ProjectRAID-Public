@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce806c6332757754880f8cd4cb8e9e1f, type: 3}
+  m_Name: VALKARION
+  m_EditorClassIdentifier: 
+  bossID: 202
+  bossName: VALKARION
+  bossType: 2
+  bossDes: VALKARION is electric Dragon
+  bossArea: 2
+  bossHP: 1500
+  bossAD: 20
+  bossSpeed: 6
+  bossSTime: 60
+  bossDrops: b00d0000b10d0000b20d0000
+  monsterKilledEvent: {fileID: 11400000, guid: 52de5e7cbfb82e046be294f00a3c805b, type: 2}

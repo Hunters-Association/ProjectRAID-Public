@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce706e95b776ef045a43e2d618c1e58e, type: 3}
+  m_Name: Roar
+  m_EditorClassIdentifier: 
+  clipName: DoatRoar
+  volume: 0.5
+  audioClips:
+  - {fileID: 8300000, guid: 2732f88aa5cc0ea43a5b6b1f6e473cf6, type: 3}
