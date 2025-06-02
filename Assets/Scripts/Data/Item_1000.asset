@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3563dab2a7aafd24cb781ed6f8ca73d3, type: 3}
+  m_Name: Item_1000
+  m_EditorClassIdentifier: 
+  itemID: 1000
+  ItemType: 0
+  Equipment: {fileID: 11400000, guid: fd4d88e70d54c0444bb7e22994fba6f1, type: 2}
+  DisplayNameKey: 
+  DescriptionKey: 
+  Price: 0
+  Weight: 0
+  Icon: {fileID: 0}
+  Prefab: {fileID: 6562412647604983428, guid: 4f4ac4d4b52b9434a903b78672f80836, type: 3}
+  Stackable: 0
+  MaxStack: 0
+  Craftable: 1
+  Recipe: {fileID: 11400000, guid: bacc469e115e61a4b8980a8c1254d2d8, type: 2}

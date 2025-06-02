@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ed96054ee4555147a7bef39f6a20ad0, type: 3}
+  m_Name: Weapon_1000
+  m_EditorClassIdentifier: 
+  equipmentID: 1000
+  requireLevel: 0
+  slot: 0
+  baseStats:
+    Attack: 10
+    AttackSpeed: 1
+    CriticalChance: 50
+    CriticalDamage: 50
+    HP: 0
+    Defense: 0
+    Stamina: 0
+    MoveSpeed: 0
+  Class: 1
+  MaxCombo: 4
+  SupportsCharge: 0
+  BattleFeatures: 3
+  CutValue: 10
+  DestructionValue: 10
+  StunChance: 0
+  BulletRange: 0
+  MagazineSize: 0
+  ReloadTime: 0
+  Sharpness: 0
+  WeaponSounds: []
+  handOffset:
+    position: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0}
+  backOffset:
+    position: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0}
